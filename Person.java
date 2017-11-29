@@ -1,4 +1,5 @@
 public class Person{
   private Address address;
-  int age;
+  private int age;
+  private int x;
 }
